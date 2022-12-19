@@ -1,0 +1,14 @@
+util\ReportUtil.class
+filter\FilterAutenticacao.class
+servlets\ServletGenericUtil.class
+servlets\ServletUsuarioController.class
+dao\DAOLoginRepository.class
+connection\SingleConnectionBanco.class
+servlets\ServletLogin.class
+beandto\BeanDtoGraficoSalarioUser.class
+dao\DAOTelefoneRepository.class
+dao\DAOUsuarioRepository.class
+servlets\ServletTelefone.class
+model\ModelLogin.class
+model\ModelTelefone.class
+dao\DaoVersionadorBanco.class

@@ -101,7 +101,6 @@ public class FilterAutenticacao implements Filter {
 					
 					while (lerArquivo.hasNext()) {
 						sql.append(lerArquivo.nextLine());
-						sql.append("/n");
 					}
 					
 					connection.prepareStatement(sql.toString()).execute();
